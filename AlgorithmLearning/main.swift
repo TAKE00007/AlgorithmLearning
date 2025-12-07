@@ -1,0 +1,11 @@
+//
+//  main.swift
+//  AlgorithmLearning
+//
+//  Created by 大竹駿 on 2025/12/07.
+//
+
+import Foundation
+
+print("Hello, World!")
+
