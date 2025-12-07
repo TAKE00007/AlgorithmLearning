@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
+// 3章例題01
+multiplication1()
 
