@@ -11,5 +11,8 @@ import Foundation
 //multiplication1()
 
 // 3章例題02
-product()
+//product()
+
+// 3章例題03
+servalVsMonster()
 
