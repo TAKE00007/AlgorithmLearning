@@ -8,5 +8,8 @@
 import Foundation
 
 // 3章例題01
-multiplication1()
+//multiplication1()
+
+// 3章例題02
+product()
 
