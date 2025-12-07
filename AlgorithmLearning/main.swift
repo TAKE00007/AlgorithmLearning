@@ -7,5 +7,12 @@
 
 import Foundation
 
-print("Hello, World!")
+// 3章例題01
+//multiplication1()
+
+// 3章例題02
+//product()
+
+// 3章例題03
+servalVsMonster()
 
