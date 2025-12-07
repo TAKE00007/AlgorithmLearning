@@ -14,5 +14,18 @@ import Foundation
 //product()
 
 // 3章例題03
-servalVsMonster()
+//servalVsMonster()
 
+// 3章練習問題1
+//abc137A()
+//abc127A()
+//abc118A()
+//abc088A()
+//abc087()
+//abc064()
+//abc128A()
+//abc125A()
+//abc173A()
+//abc157A()
+//abc176A()
+ninty033()
