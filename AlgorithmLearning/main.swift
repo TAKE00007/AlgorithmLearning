@@ -16,7 +16,13 @@ import Foundation
 // 3章例題03
 //servalVsMonster()
 
-// 3章練習問題1
+// 3章例題04
+//weLoveGolf()
+
+// 3章例題5
+//someSums()
+
+// 3-2 練習問題
 //abc137A()
 //abc127A()
 //abc118A()
@@ -30,8 +36,9 @@ import Foundation
 //abc176A()
 //ninty033()
 
-// 3章例題04
-//weLoveGolf()
-
-// 3章例題5
-someSums()
+// 3-3 練習問題
+//abc162B()
+//abc206B()
+//abc165B()
+//abc200B()
+abc164B()
