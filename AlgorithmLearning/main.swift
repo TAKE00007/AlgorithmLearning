@@ -28,4 +28,10 @@ import Foundation
 //abc173A()
 //abc157A()
 //abc176A()
-ninty033()
+//ninty033()
+
+// 3章例題04
+//weLoveGolf()
+
+// 3章例題5
+someSums()
