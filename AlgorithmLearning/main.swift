@@ -47,4 +47,8 @@ import Foundation
 //abc158C()
 //abc068B()
 //abc090B()
-abc220B()
+//abc220B()
+
+// 3-4 例題06
+//shiftOnly()
+cardGameForTwo()
