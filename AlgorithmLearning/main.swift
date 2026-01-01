@@ -51,4 +51,18 @@ import Foundation
 
 // 3-4 例題06
 //shiftOnly()
-cardGameForTwo()
+//cardGameForTwo()
+
+// 3-4 練習問題
+//abc174B()
+//abc130B()
+//abc095B()
+//abc124B()
+//abc201B()
+//abc113B()
+//abc205B()
+//abc067B()
+//abc132C()
+//abc115C()
+//abc121C()
+abc113C()
