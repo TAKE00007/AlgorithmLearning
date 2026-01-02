@@ -65,4 +65,8 @@ import Foundation
 //abc132C()
 //abc115C()
 //abc121C()
-abc113C()
+//abc113C()
+
+// 3-5
+//例題08
+//acCepted()
