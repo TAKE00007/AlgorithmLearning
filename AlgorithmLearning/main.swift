@@ -70,3 +70,16 @@ import Foundation
 // 3-5
 //例題08
 //acCepted()
+
+// 3-5 練習問題
+//abc215A()
+//abc084B()
+//abc146B()
+//abc147B()
+//abc218B()
+//abc058B()
+//abc066B()
+//abc103B()
+//abc221B()
+//abc152B()
+abc082B()
